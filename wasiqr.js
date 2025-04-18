@@ -68,16 +68,16 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
-║❒ *Owner:* https://wa.me/2348075952205_
-║❒ *Repo:* _https://github.com/Fearless-tech1_
-║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
-║❒ *Plugins:* _https://github.com/Fearless-tech1 
+║❒ *WhatsApp channel:* _https://whatsapp.com/channel/0029Vb3zzYJ9xVJk0Y65c81W
+║❒ *Owner:* https://wa.me/254725474072_
+║❒ *WhatsApp group:* _https://chat.whatsapp.com/IT55IJ9kOPi5Fi9T5VNC5V
+║❒ *Telegram channel:* _https://t.me/+PBgwi7xT4uA2ZTg0
+║❒ *You will never regret 😂✨*
+║❒ *follow for more*
 ╚════════════════════════╝
 _____________________________________
 	
-_Don't Forget To Give Star To My Repo_`
+_https://whatsapp.com/channel/0029Vb3zzYJ9xVJk0Y65c81W_`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
 
 
